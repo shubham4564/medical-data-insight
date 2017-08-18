@@ -1,0 +1,1 @@
+DEVELOPMENT ON ANGULAR2 WIll be done here at nmdv-angular Branch. This readme will be merged to origin in future.
