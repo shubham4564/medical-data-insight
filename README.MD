@@ -1,3 +1,4 @@
-DEVELOPMENT ON ANGULAR2 WIll be done here at nmdv-angular Branch. This readme will be merged to origin in future.
+### [![CircleCI](https://circleci.com/gh/algosig/nepal-medical-data-visualization.svg?style=svg)](https://circleci.com/gh/algosig/nepal-medical-data-visualization) [![Stories in Ready](https://badge.waffle.io/algosig/nepal-medical-data-visualization.png?label=ready&title=Ready)](http://waffle.io/algosig/nepal-medical-data-visualization)
 
-[![Stories in Ready](https://badge.waffle.io/algosig/nepal-medical-data-visualization.png?label=ready&title=Ready)](http://waffle.io/algosig/nepal-medical-data-visualization)
+## README
+To be updated
