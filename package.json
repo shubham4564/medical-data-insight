@@ -1,0 +1,22 @@
+{
+  "name": "nmdv",
+  "version": "1.0.0",
+  "description": "medical data insight nepal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\"https:github.com/algosig/medical-data-insight-nepal.git"
+  },
+  "keywords": [
+    "Medical",
+    "Data",
+    "Data",
+    "Visualization.",
+    "Framework"
+  ],
+  "author": "Sanjog Sigdel",
+  "license": "Apache-2.0"
+}
