@@ -1,8 +1,19 @@
 ### <a href="https://circleci.com/gh/algosig/medical-data-insight-nepal"><img src="https://circleci.com/gh/algosig/medical-data-insight-nepal.svg?style=svg"></a> [![Stories in Ready](https://badge.waffle.io/algosig/nepal-medical-data-visualization.png?label=ready&title=Ready)](http://waffle.io/algosig/nepal-medical-data-visualization)
 
-## README
-Thinking about redoing the University Semester Project and this time continuing it as a Open Sourc Project. Started with some idea on <a href="https://waffle.io/algosig/nepal-medical-data-visualization">waffle.io</a> [![Stories in Ready](https://badge.waffle.io/algosig/nepal-medical-data-visualization.png?label=ready&title=Ready)](http://waffle.io/algosig/nepal-medical-data-visualization). Will come up with a basic outlay soon.
+# MEDICAL DATA INSIGHT
 
-## Waffle Throughput PRs Graph
-Waffle will automatically maintain graph of projects Pull Requests and Throughputs.
+Medical Data Insight envisions to provide understandable data insight to medical associations, academic institutes research and development organizations and all global citizens 
+
+<hr></hr>
+ 
+## <a href="https://github.com/algosig/medical-data-insight/blob/master/CODE_OF_CONDUCT.MD">CODE OF CONDUCT </a>
+
+## <a href="https://github.com/algosig/medical-data-insight/blob/master/LICENSE"> LICENSE</a>
+
+## <a href="https://circleci.com/gh/algosig/medical-data-insight">CIRCLECI BUILD STATUS</a>
+
+## <a href="https://waffle.io/algosig/medical-data-insight/metrics/burndown">MILESTONE BURNDOWN MATRICES</a>
+## <a href="https://waffle.io/algosig/medical-data-insight/metrics/throughput">Throughput and PULL REQUEST GRAPH</a>
 [![Throughput Graph](https://graphs.waffle.io/algosig/medical-data-insight-nepal/throughput.svg)](https://waffle.io/algosig/medical-data-insight-nepal/metrics/throughput)
+
+## <a href="https://groups.google.com/forum/#!forum/medical-data-insight">GET AUTOMATED COMMIT EMAILS</a> 
