@@ -17,3 +17,4 @@ Medical Data Insight envisions to provide understandable data insight to medical
 [![Throughput Graph](https://graphs.waffle.io/algosig/medical-data-insight-nepal/throughput.svg)](https://waffle.io/algosig/medical-data-insight-nepal/metrics/throughput)
 
 ## <a href="https://groups.google.com/forum/#!forum/medical-data-insight">GET AUTOMATED COMMIT EMAILS</a> 
+## <a href="https://twitter.com/techjhola">FOLLOW @TECHJHOLA FOR AUTOMATIC COMMIT TWEETS</a>
