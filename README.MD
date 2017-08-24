@@ -1,4 +1,5 @@
 # MEDICAL DATA INSIGHT
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b7b5b3c5fe274551bb4dd52d7f744b62)](https://www.codacy.com/app/sigdelsanjog/medical-data-insight?utm_source=github.com&utm_medium=referral&utm_content=algosig/medical-data-insight&utm_campaign=badger)
 [![CircleCI](https://circleci.com/gh/algosig/medical-data-insight.svg?style=svg)](https://circleci.com/gh/algosig/medical-data-insight)
 <a href="https://circleci.com/gh/algosig/medical-data-insight-nepal"><img src="https://circleci.com/gh/algosig/medical-data-insight-nepal.svg?style=svg"></a> [![Stories in Ready](https://badge.waffle.io/algosig/nepal-medical-data-visualization.png?label=ready&title=Ready)](http://waffle.io/algosig/nepal-medical-data-visualization)
 
